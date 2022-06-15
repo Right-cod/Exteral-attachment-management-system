@@ -2,7 +2,7 @@
 - 👀 I’m a resposive web developerusing HTML,CSS as fromt end and php ,Javascript as back end.
 - 🌱 I’m currently learning how to build a website using React.
 - 💞️ I’m looking to collaborate on organisations and persons with the knowledge to intergrate website with payment Api.
-- 📫 You can reach me though my email kimangadenis@gmail.com.
+- 📫 You can reach me though my email kimangadenis015@gmail.com.
 
 <!---
 Right-cod/Right-cod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
